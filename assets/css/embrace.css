@@ -1,10 +1,10 @@
 @font-face {
     font-family: Roboto;
-    src: url(fontFamilly/Roboto-Black.ttf);
+    src: url(../fonts/Roboto-Black.ttf);
 }
 @font-face {
     font-family: roboto;
-    src: url(fontFamilly/Roboto-Regular.ttf);
+    src: url(../fonts/Roboto-Regular.ttf);
 }
 html{
     /*margin: auto;*/
@@ -283,7 +283,7 @@ nav li{
     width: 1200px;
     height: 371px;
     gap: 193px;
-    background-image: url("img/CTA Banner (2).png");
+    background-image: url("../images/CTA Banner (2).png");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -474,7 +474,7 @@ nav li{
     gap: 161px;
     margin: 0px;
     padding: 122px 118px 123px 122px;
-    background-image: url("img/CTA Banner 2.png");
+    background-image: url("../images/CTA Banner 2.png");
     background-position: center;
     background-repeat: no-repeat;
 }
