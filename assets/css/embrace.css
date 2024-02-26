@@ -269,6 +269,7 @@ nav li{
 #frame67{
     display: flex;
     gap: 20px;
+    justify-content: space-evenly;
 }
 #frame67 img{
     width: 400px;
@@ -279,7 +280,7 @@ nav li{
     padding: 100px 120px;
     display: flex;
     align-items: center;
-    margin: 0px;
+    margin: auto;
     width: 1200px;
     height: 371px;
     gap: 193px;
@@ -472,7 +473,7 @@ nav li{
     height: 455px;
     width: 1200px;
     gap: 161px;
-    margin: 0px;
+    margin: auto;
     padding: 122px 118px 123px 122px;
     background-image: url("../images/CTA Banner 2.png");
     background-position: center;
